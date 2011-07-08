@@ -1,0 +1,54 @@
+commit 7e634a157fc49acde3e2686dfcd25de1ab29928c
+Merge: cbc65b3 3089bf9
+Author: Yannan Wang <yannanwang@gmail.com>
+Date:   Thu Jul 7 15:02:28 2011 +0800
+
+    first commit
+
+commit cbc65b3c4b5e073cf9ac1ceae51211815cf2141a
+Author: Yannan Wang <yannanwang@gmail.com>
+Date:   Thu Jul 7 13:57:29 2011 +0800
+
+    Trying with git
+
+commit 85f9ef95cc217f62a965e14de07eabbb121bbccf
+Author: Yannan Wang <yannanwang@gmail.com>
+Date:   Thu Jul 7 11:46:54 2011 +0800
+
+    Fixed Spec
+
+commit 1eb83003750c39e3fe3083d285879b80a646a6ac
+Author: Yannan Wang <yannanwang@gmail.com>
+Date:   Thu Jul 7 11:36:15 2011 +0800
+
+    Done with static pages
+
+commit aa13b5ba4dafe1768694a016d93a08d64dbb02fa
+Author: Yannan Wang <yannanwang@gmail.com>
+Date:   Wed Jul 6 18:14:41 2011 +0800
+
+    Added a Pages controller
+
+commit b0f21528839f93d1fb85502e44ce3296e0d24070
+Author: Yannan Wang <yannanwang@gmail.com>
+Date:   Wed Jul 6 18:00:26 2011 +0800
+
+    Improved README
+
+commit e1393e095e629cea541dfb8c4df78d3c03cc3b9c
+Author: Yannan Wang <yannanwang@gmail.com>
+Date:   Wed Jul 6 17:59:31 2011 +0800
+
+    Initial commit
+
+commit 3089bf92c076a4e7d5ebefb5820b4492bb8e94d6
+Author: Yannan Wang <yannanwang@gmail.com>
+Date:   Thu Jun 30 16:55:09 2011 +0800
+
+    Improved the README
+
+commit cbfe2bad818605620d79ff9cfa283503b2781384
+Author: Yannan Wang <yannanwang@gmail.com>
+Date:   Thu Jun 30 16:53:56 2011 +0800
+
+    Initial commit
